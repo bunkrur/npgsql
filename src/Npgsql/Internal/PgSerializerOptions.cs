@@ -1,7 +1,6 @@
 using System;
 using System.Diagnostics.CodeAnalysis;
 using System.IO;
-using System.Runtime.CompilerServices;
 using System.Text;
 using Npgsql.Internal.Postgres;
 using Npgsql.NameTranslation;
